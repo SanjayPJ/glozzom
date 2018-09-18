@@ -1,0 +1,22 @@
+$b-black : #202020;
+
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+.navbar {
+
+    .active {
+        background-color: $b-black;
+        border-left: 2px solid #fff;
+    }
+
+    .nav-link {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+}
+
+.carousel-item {
+    height: 450px;
+}

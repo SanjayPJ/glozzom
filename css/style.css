@@ -1,0 +1,18 @@
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
+.navbar .active {
+  background-color: #202020;
+  border-left: 2px solid #fff;
+}
+
+.navbar .nav-link {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.carousel-item {
+  height: 450px;
+}
+/*# sourceMappingURL=style.css.map */
