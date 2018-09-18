@@ -2,6 +2,7 @@ $b-black : #202020;
 
 body {
     font-family: 'Slabo 27px', serif;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -19,4 +20,17 @@ body {
 
 .carousel-item {
     height: 450px;
+}
+
+#home-heading {
+    background: url('../img/lights.jpg');
+    color: #fff;
+    background-repeat: no-repeat;
+}
+
+#video-play {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+        url('../img/media.jpg');
+    color: #fff;
+    background-repeat: no-repeat;
 }
