@@ -29,4 +29,19 @@ body {
   color: #fff;
   background-repeat: no-repeat;
 }
+
+#page-header {
+  background: url(../img/image1.jpg);
+  color: #fff;
+  background-position: 0 -360px;
+  background-attachment: fixed;
+}
+
+#icon-box i {
+  padding: 15px;
+}
+
+.blockquote-footer {
+  margin-top: 10px;
+}
 /*# sourceMappingURL=style.css.map */
